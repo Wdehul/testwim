@@ -1,1 +1,3 @@
 dit is file 1, lijn 1
+dit is file 1, lijn 2
+dit is file 1, lijn 3
